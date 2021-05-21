@@ -13,4 +13,4 @@ reverseList(A)
 ```
 ### Output
 
-![output](https://user-images.githubusercontent.com/73333739/116360033-20a2f300-a81d-11eb-9821-f7b03b0e45ea.jpeg)
+![output](https://user-images.githubusercontent.com/73333739/119133961-2bd2f280-ba5a-11eb-8a62-9af3ef28bdc4.png)
